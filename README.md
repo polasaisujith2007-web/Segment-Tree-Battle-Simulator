@@ -86,8 +86,8 @@ teamScore += 50;
 
 Installation Commands
 
-git clone https://github.com/Harshajevs/Segment-Tree-Game-Simulator.git
-cd Segment-Tree-Game-Simulator
+git clone https://github.com/polasaisujith2007-web/Segment-Tree-Battle-Simulator.git
+cd Segment-Tree-Battle-Simulator
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 cmake --build .
@@ -146,8 +146,3 @@ int querySumAttack(int node, int start, int end, int l, int r) {
 3. **Range Validation** for invalid inputs  
    *Solution:* Auto-correcting boundary checks
 
-## 📜 License & Attribution
-
-MIT Licensed - Free for academic/commercial use  
-**Author**: Kammari HarshaVardhan  
-**GitHub**: [https://github.com/Harshajevs](https://github.com/Harshajevs)
